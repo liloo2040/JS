@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+}
+
+table {
+    width: 90%;
+    border: 1px solid black;
+    padding: 4px;
+}
+input {
+    padding: 5px;
+    margin: 2px;
+    border:
+}
+
+button {
+    text-transform: uppercase;
+    background-color: #090330;
+    font-family: "Liberation Sans";
+    border: none;
+    padding: 6px;
+    letter-spacing: 2px;
+    color: aquamarine;
+    font-weight: lighter;
+}
